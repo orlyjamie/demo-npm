@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fctgl-api": "^1.0.0"
+    "fctgl-api-node": "^1.0.0"
   }
 }
